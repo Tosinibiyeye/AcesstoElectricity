@@ -38,4 +38,5 @@ Renewable energy potential is moderately positively correlated with GDP per capi
 - Renewable Energy investment strategies: guide investors towards sustainable opportunities.
 - Country income Grouping: These will guide investor in understanding the purchase power of the population.
 - Regional Energy Production, Consumption, and Prediction.
+- uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 
